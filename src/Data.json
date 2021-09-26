@@ -1,0 +1,69 @@
+{
+    "ContinentalProduct":[
+        {
+            "_id" :"dress1",
+            "title" :"Cabage Salad",
+            "image": "Image/food-project/continental-1.jpg",
+            "description":"about dress 1",
+            "price" :"119",
+            "availableSizes" :["XL","XXL"]
+        },
+        {
+            "_id" :"dress2",
+            "title" :"Chinese salad",
+            "image": "Image/food-project/continental-2.jpg",
+            "description":"about dress 1",
+            "price" :"349",
+            "availableSizes" :["XL","XXL"]
+        },
+        {
+            "_id" :"dress3",
+            "title" :"Spanish Salad",
+            "image": "Image/food-project/continental-3.jpg",
+            "description":"about dress 1",
+            "price" :"459",
+            "availableSizes" :["XL","XXL"]
+        },
+        {
+            "_id" :"dress4",
+            "title" :"American Salad",
+            "image": "Image/food-project/continental-4.jpg",
+            "description":"about dress 1",
+            "price" :"503",
+            "availableSizes" :["XL","XXL"]
+        },
+        {
+            "_id" :"dress5",
+            "title" :"Sweet Salad",
+            "image": "Image/food-project/continental-5.jpg",
+            "description":"about dress 1",
+            "price" :"1990",
+            "availableSizes" :["XL","XXL"]
+        },
+        {
+            "_id" :"dress6",
+            "title" :"Potatos",
+            "image": "Image/food-project/continental-6.jpg",
+            "description":"about dress 1",
+            "price" :"4337",
+            "availableSizes" :["XL","XXL"]
+        },
+        {
+            "_id" :"dress7",
+            "title" :"Bastma rice",
+            "image": "Image/food-project/continental-7.jpg",
+            "description":"about dress 1",
+            "price" :"2002",
+            "availableSizes" :["XL","XXL"]
+        },
+        {
+            "_id" :"dress8",
+            "title" :"Swedish Salad",
+            "image": "Image/food-project/continental-9.jpg",
+            "description":"about dress 1",
+            "price" :"570",
+            "availableSizes" :["XL","XXL"]
+        }
+        
+    ]
+}
